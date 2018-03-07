@@ -1,0 +1,10 @@
+h1{
+	font-family: "Times New Roman";
+	font-size: 28px;
+	color:limegreen;
+}
+
+body{	
+	font-family: "Arial";
+	background-image: url('../imagens/fundo.png');
+}
